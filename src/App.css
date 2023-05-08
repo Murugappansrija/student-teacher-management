@@ -1,0 +1,77 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 3px solid red;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: darkcyan;
+}
+
+td {
+  background-color: darkcyan;
+}
+
+form {
+  display: flex;
+  gap: 10px;
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 28px;
+}
+.inputbox{
+  display: flex;
+   flex-direction: column;
+  justify-content: center;
+background-color: cornflowerblue;
+  height: 500px;
+  width: 500px;
+}
+.inputdiv{
+  display: flex;
+  justify-content: center;
+}
+h2,h3{
+  text-align: center;
+  font-size: 30px;
+}
+input{
+  margin: 10px;
+  height: 50px;
+}
+.subbtn{
+  border-radius: 30px;
+  width: 200px;
+  text-align: center;
+  background-color: brown;
+}
+body{
+  background-color:white;
+  color: white;
+  margin: 0%;
+padding: 0%;}
+img{
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+}

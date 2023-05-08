@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullName": "vishnu varadhan",
+      "batch": "fsdb44,fsdb45",
+      "phoneNumber": "4",
+      "email": "valuvishnu@gmail.com"
+    },
+   
+    {
+      "id": 2,
+      "fullName": "ruban",
+      "batch": "datascience b44",
+      "phoneNumber": "4.5",
+      "email": "ruban@gmail.com"
+    }
+  ]

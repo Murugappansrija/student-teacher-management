@@ -1,0 +1,7 @@
+.sidebar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    height: 100px;
+}
